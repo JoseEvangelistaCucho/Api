@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\PruebaApi\PruebaApi\bin\Debug\netcoreapp2.1\PruebaApi.deps.json
+C:\Users\Usuario\source\repos\PruebaApi\PruebaApi\bin\Debug\netcoreapp2.1\PruebaApi.runtimeconfig.json
+C:\Users\Usuario\source\repos\PruebaApi\PruebaApi\bin\Debug\netcoreapp2.1\PruebaApi.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\PruebaApi\PruebaApi\bin\Debug\netcoreapp2.1\PruebaApi.dll
+C:\Users\Usuario\source\repos\PruebaApi\PruebaApi\obj\Debug\netcoreapp2.1\PruebaApi.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PruebaApi\PruebaApi\obj\Debug\netcoreapp2.1\PruebaApi.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PruebaApi\PruebaApi\obj\Debug\netcoreapp2.1\PruebaApi.RazorAssemblyInfo.cache
+C:\Users\Usuario\source\repos\PruebaApi\PruebaApi\obj\Debug\netcoreapp2.1\PruebaApi.RazorAssemblyInfo.cs
+C:\Users\Usuario\source\repos\PruebaApi\PruebaApi\obj\Debug\netcoreapp2.1\PruebaApi.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\PruebaApi\PruebaApi\obj\Debug\netcoreapp2.1\PruebaApi.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\PruebaApi\PruebaApi\obj\Debug\netcoreapp2.1\PruebaApi.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\source\repos\PruebaApi\PruebaApi\bin\Debug\netcoreapp2.1\PruebaApi.pdb
+C:\Users\Usuario\source\repos\PruebaApi\PruebaApi\obj\Debug\netcoreapp2.1\PruebaApi.dll
+C:\Users\Usuario\source\repos\PruebaApi\PruebaApi\obj\Debug\netcoreapp2.1\PruebaApi.pdb
